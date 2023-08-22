@@ -1,0 +1,6 @@
+--This is the place to get your loadstring + key (link)!
+--Contact us in our Discord via the link inside of the README.md file and support files!
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Project-Lightning-Loader/main/Loader.Lua"))() 
+
+--https://link-center.net/486815/key-system1
